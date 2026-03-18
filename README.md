@@ -1,6 +1,6 @@
 # 🎮 EcoQuest
 
-> 🔗 **Acesse o projeto:** [https://seu-link-aqui.vercel.app](https://seu-link-aqui.vercel.app)
+> 🔗 **Acesse o projeto:** [https://gameambiente.vercel.app](https://gameambiente.vercel.app)
 
 Um jogo educativo desenvolvido com **Vue.js**, com o objetivo de conscientizar jogadores sobre a preservação ambiental. Através de desafios e atividades interativas, o projeto ensina práticas sustentáveis e a importância da conservação de recursos naturais.
 
